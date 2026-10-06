@@ -1,0 +1,2191 @@
+[
+    {
+        "domain": "jcmobilecigars.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "somalidisablesupport.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Cloudflare",
+            "Apache"
+        ]
+    },
+    {
+        "domain": "yourfamilylines.com",
+        "status_code": 200,
+        "technologies": [
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "szentkristofudvarhaz.hu",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache"
+        ]
+    },
+    {
+        "domain": "disneystore.com",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "chavchavadze-m2-41-tbilisi.booked.net",
+        "status_code": 404,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "trs-energycontrol.de",
+        "status_code": 200,
+        "technologies": [
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "xn--kleoghvidevareservice-qfc.dk",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Nginx"
+        ]
+    },
+    {
+        "domain": "gogroupauto.com",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "231selfstorage.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Google Analytics",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "globalrn.com",
+        "status_code": 526,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "cytofastmed.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "5starremoval.weebly.com",
+        "status_code": 404,
+        "technologies": [
+            "Weebly",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "coenzwezerijnen.nu",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "gutendorf.ru",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "WooCommerce",
+            "jQuery",
+            "Cloudflare",
+            "Nginx"
+        ]
+    },
+    {
+        "domain": "katesworldtravel.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Nginx"
+        ]
+    },
+    {
+        "domain": "3xd.co.uk",
+        "status_code": 403,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "gapconstructionwi.com",
+        "status_code": 200,
+        "technologies": [
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "imgs.co.jp",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "clotting-guide.online",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "38inspect.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "newbeaverborough.org",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Nginx"
+        ]
+    },
+    {
+        "domain": "largsbaychiropractic.com.au",
+        "status_code": 200,
+        "technologies": [
+            "Squarespace",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "rsthealthcare.com",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "dioxoxigenio.com.br",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "doringpoort.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "fsbwyoming.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "msc-manching.de",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache"
+        ]
+    },
+    {
+        "domain": "sgsextremaratio.it",
+        "status_code": 200,
+        "technologies": [
+            "Vue.js",
+            "Cloudflare",
+            "Nginx"
+        ]
+    },
+    {
+        "domain": "coastwidemechanicalcentralcoast.com.au",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Google Analytics",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "amourfinder.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "lojatatical.com.br",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Bootstrap",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "jobresourcecentre.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Bootstrap",
+            "Google Analytics",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "ferienwohnung-kastell.de",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "253media.com",
+        "status_code": 200,
+        "technologies": [
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "velvety.eu",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "doortodoororganics.com",
+        "status_code": 200,
+        "technologies": [
+            "Font Awesome",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "kentpropertyrenovations.co.uk",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Cloudflare",
+            "Apache"
+        ]
+    },
+    {
+        "domain": "fisherinvestments.com",
+        "status_code": 403,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "rionecontrastanga.net",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "stwannas.com",
+        "status_code": 403,
+        "technologies": [
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "empresasori.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "familybroker.cz",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "genesisny.net",
+        "status_code": 200,
+        "technologies": [
+            "Google Analytics",
+            "Cloudflare",
+            "LiteSpeed"
+        ]
+    },
+    {
+        "domain": "5w.design",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "huberautomotive.com",
+        "status_code": 403,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "marien-apotheke-grefrath-app.de",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "centreconsiliereavort.ro",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "infoaboutnetwork.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "11853prospecthill.com",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare"
+        ]
+    },
+    {
+        "domain": "passwordstore.it",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Google Analytics",
+            "Cloudflare",
+            "Nginx"
+        ]
+    },
+    {
+        "domain": "avocatalinamanciu.ro",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "LiteSpeed"
+        ]
+    },
+    {
+        "domain": "abcdpinturas.com.br",
+        "status_code": 404,
+        "technologies": [
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "dssfla.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "weducars.co.za",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "WooCommerce",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "4stonebuildings.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "maniaupiekszania.pl",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "sprucemeadowsmd.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "natedea.co.uk",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "loizillon.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "haus-muehlenfeld-pommerby.de",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Nginx",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "arenaskolor.se",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Cloudflare",
+            "Nginx",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "boken.ch",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "restwellstreetmedicalcentre.com.au",
+        "status_code": 200,
+        "technologies": [
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "den-a-sha.co.jp",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare",
+            "Nginx",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "365outsource.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "aida-cruises.at",
+        "status_code": 403,
+        "technologies": [
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "lets.gr",
+        "status_code": 200,
+        "technologies": [
+            "Cloudflare",
+            "Nginx",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "skywayrestaurants.net",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Nginx",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "2020wealthadvisory.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "hnafirm.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "itsolutions24.pl",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "aaice.net",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "ecolab.com",
+        "status_code": 504,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "mehmetefendimacedonia.com",
+        "status_code": 200,
+        "technologies": [
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "laplumedelisibilite.fr",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "2ldm.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "Vue.js",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "westchesterpointechiro.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "cei-expertises.fr",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "seringa-safaris.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "1planettechnologies.weebly.com",
+        "status_code": 200,
+        "technologies": [
+            "Weebly",
+            "jQuery",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "soziale-dreigliederung.de",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "premierhomeremodeling.net",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Next.js",
+            "Cloudflare",
+            "Nginx",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "bas-ingenieria.cl",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Bootstrap",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "produkttheater.de",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "unnames.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "handycars.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "antikebau.de",
+        "status_code": 500,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "3strandschurch.org",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP"
+        ]
+    },
+    {
+        "domain": "alabamabuildingcontractor.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "resourceservicesolutions.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "skywardspeech.com.au",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "sevecoitalia.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Microsoft IIS",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "nielsbirk.dk",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Font Awesome",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "branson-connection.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "phucankhanggroup.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "roccofortehotels.cn",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "everhartsoutdoor.com",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "europeaninns.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "massageforworldpeace.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "cultivateventures.co.nz",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Squarespace",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "amaronbattery.in",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "radxmobile.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "2-com.net",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "3bsexcavating.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "weissbauchpapageien.de",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "959marine.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Weebly",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "hansis-knusperhendl-foodtruck.eatbu.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "broganlmt.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "juanmunozhomesmart.com",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "buchhaltungsservice-koenig.de",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "solvos.nl",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "261welfarefund.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "costa-coffee.be",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "startravelcompany.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "disinfestazioniepiscine.it",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "lscms.org",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "3dwealthadvisory.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "jackwills.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "nevsproductions.com",
+        "status_code": 404,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "kande-hoikuen.ed.jp",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "orifoodsco.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Squarespace",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "deerfieldbeachautomall.com",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "insieme.stanford.edu",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Drupal",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "layer7innovations.ca",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "makpharma-eg.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "ejc-courtage-assurances.fr",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "ferrateoxidant.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "oakwell.vet",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "mysterion.hr",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "howellmotors.com",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "lorenz-baumarkt.de",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "eclairage-solaire-occitanie.com",
+        "status_code": 404,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "cmc01village.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "maiquotes.net",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "cmresolutions.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "wglchurch.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "nwmotorinn.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "dorpsbelangen.nu",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "littlerockafamily.de",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "evelynanders.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "domekvefaru.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "sdmdjentertainment.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "ideenhunger.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "jenniferbacksteininteriors.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Squarespace",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "elcolegiocongresosyrestaurante.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Font Awesome",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "northshoremacnut.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "powercleaning.services",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "stoperbis.pl",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "verticalcommunitychurch.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "gitesducharmois.fr",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "allegrocreditbeta.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "hoffmaninstitute.co.uk",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "WooCommerce",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "a3sec.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "concrete-fitness.edan.io",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "nicholsonchiro.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "la-residenza-del-principe-rome-it.booked.net",
+        "status_code": 404,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "jonesbuickgmc.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "xn--jobvrkstedet-9cb.nu",
+        "status_code": 454,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "appelpsychotherapy.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "brucebournesold.com",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "pcb-cpb.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "chiantifiorentino.it",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Microsoft IIS",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "11thhourracing.org",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "miratrade.com.tr",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "freo.com.au",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "fluxar.com.ar",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "redpants.jp",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Squarespace",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "bata.edu.hu",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "3-energie-klaas.de",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "labdemo.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "1ststopsupply.com",
+        "status_code": 409,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "celiabedilia.com",
+        "status_code": 0,
+        "technologies": []
+    },
+    {
+        "domain": "davidloeppke.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Google Analytics",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "wrinkle-pei.cz",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "koniczynka.info.pl",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "WooCommerce",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "footasylum.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Bootstrap",
+            "Font Awesome",
+            "Cloudflare",
+            "Microsoft IIS",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "2agateway.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "ledestjernenstu.dk",
+        "status_code": 454,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "1stlocksheathscouts.org.uk",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "tamcconstruction.net",
+        "status_code": 403,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "abbikadabbisbakingco.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Weebly",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "herbalwise.ie",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "deepseass.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "aardvarkelectriccorp.com",
+        "status_code": 409,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "needaphysio.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Wix",
+            "React",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "thomasrosenbaum.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Squarespace",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "100wwcstlw.org",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "shapirolawfirm.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "joseph-herber.business.site",
+        "status_code": 404,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "arol.cl",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "sindacatobadanti.it",
+        "status_code": 503,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "1stclairavewest.com",
+        "status_code": 409,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "lighthouseprc.org",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "5rcircleprocess.weebly.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Weebly",
+            "jQuery",
+            "Cloudflare",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "unitedveterinaryservice.com",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "construccionesyatecnicas.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "jQuery",
+            "Cloudflare",
+            "Nginx",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "joburgheritage.org.za",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Elementor",
+            "WooCommerce",
+            "Shopify",
+            "jQuery",
+            "Font Awesome",
+            "Google Analytics",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "bfnelson.it",
+        "status_code": 200,
+        "technologies": [
+            "WordPress",
+            "Shopify",
+            "Cloudflare",
+            "LiteSpeed",
+            "PHP",
+            "ASP.NET"
+        ]
+    },
+    {
+        "domain": "rivithead.com",
+        "status_code": 200,
+        "technologies": [
+            "Shopify",
+            "Cloudflare",
+            "Apache",
+            "PHP",
+            "ASP.NET"
+        ]
+    }
+]

@@ -1,0 +1,264 @@
+{
+  "WordPress": {
+    "category": "CMS",
+    "meta_tag": {
+      "generator": "wordpress"
+    },
+    "scripts": [
+      "/wp-content/",
+      "/wp-includes/"
+    ],
+    "href": [
+      "/wp-content/",
+      "/wp-includes/"
+    ]
+  },
+  "Elementor": {
+    "category": "Page Builder",
+    "scripts": [
+      "/elementor/assets/"
+    ],
+    "href": [
+      "/elementor/assets/"
+    ]
+  },
+  "WooCommerce": {
+    "category": "E-commerce",
+    "meta_tag": {
+      "generator": "woocommerce"
+    },
+    "scripts": [
+      "/plugins/woocommerce/"
+    ],
+    "href": [
+      "/plugins/woocommerce/"
+    ],
+    "cookies": [
+      "woocommerce_"
+    ]
+  },
+  "Shopify": {
+    "category": "E-commerce",
+    "headers": {
+      "x-shopid": "",
+      "x-shardid": ""
+    },
+    "cookies": [
+      "_shopify"
+    ],
+    "scripts": [
+      "cdn.shopify.com"
+    ],
+    "href": [
+      "cdn.shopify.com"
+    ]
+  },
+  "Wix": {
+    "category": "Website Builder",
+    "meta_tag": {
+      "generator": "wix.com"
+    },
+    "headers": {
+      "x-wix-request-id": ""
+    },
+    "scripts": [
+      "static.parastorage.com",
+      "wix.com"
+    ]
+  },
+  "Squarespace": {
+    "category": "Website Builder",
+    "headers": {
+      "x-servedby": "squarespace"
+    },
+    "cookies": [
+      "ss_cid",
+      "ss_cvr"
+    ],
+    "scripts": [
+      "static.squarespace.com",
+      "static1.squarespace.com"
+    ]
+  },
+  "Weebly": {
+    "category": "Website Builder",
+    "scripts": [
+      "editmysite.com",
+      "weebly.com"
+    ],
+    "href": [
+      "editmysite.com"
+    ]
+  },
+  "Joomla": {
+    "category": "CMS",
+    "meta_tag": {
+      "generator": "joomla"
+    },
+    "scripts": [
+      "/media/jui/js/",
+      "/media/system/js/"
+    ]
+  },
+  "Drupal": {
+    "category": "CMS",
+    "meta_tag": {
+      "generator": "drupal"
+    },
+    "headers": {
+      "x-drupal-cache": "",
+      "x-generator": "drupal"
+    },
+    "scripts": [
+      "drupal.js",
+      "/sites/default/files/"
+    ]
+  },
+  "Next.js": {
+    "category": "Frontend Framework",
+    "headers": {
+      "x-powered-by": "next.js"
+    },
+    "scripts": [
+      "/_next/static/"
+    ],
+    "html": [
+      "__next_data__"
+    ]
+  },
+  "React": {
+    "category": "JavaScript Framework",
+    "scripts": [
+      "react.production.min.js",
+      "react-dom.production.min.js",
+      "react.development.js"
+    ],
+    "html": [
+      "data-reactroot",
+      "_reactlistening"
+    ]
+  },
+  "Vue.js": {
+    "category": "JavaScript Framework",
+    "scripts": [
+      "vue.min.js",
+      "vue.runtime",
+      "vue.global"
+    ],
+    "html": [
+      "data-v-"
+    ]
+  },
+  "jQuery": {
+    "category": "JavaScript Library",
+    "scripts": [
+      "jquery.min.js",
+      "jquery.js",
+      "jquery-"
+    ]
+  },
+  "Bootstrap": {
+    "category": "UI Framework",
+    "scripts": [
+      "bootstrap.min.js",
+      "bootstrap.bundle"
+    ],
+    "href": [
+      "bootstrap.min.css",
+      "bootstrap.css"
+    ]
+  },
+  "Tailwind CSS": {
+    "category": "UI Framework",
+    "scripts": [
+      "cdn.tailwindcss.com"
+    ],
+    "href": [
+      "tailwind.min.css",
+      "tailwind.css"
+    ]
+  },
+  "Font Awesome": {
+    "category": "Font / Icon Script",
+    "scripts": [
+      "fontawesome",
+      "kit.fontawesome.com"
+    ],
+    "href": [
+      "font-awesome",
+      "fontawesome"
+    ]
+  },
+  "Google Analytics": {
+    "category": "Analytics",
+    "scripts": [
+      "google-analytics.com/analytics.js",
+      "googletagmanager.com/gtag/js",
+      "ga.js"
+    ],
+    "html": [
+      "gtag('config'",
+      "ga('create'"
+    ]
+  },
+  "Google Tag Manager": {
+    "category": "Tag Manager",
+    "scripts": [
+      "googletagmanager.com/gtm.js"
+    ]
+  },
+  "Cloudflare": {
+    "category": "CDN / Security",
+    "headers": {
+      "server": "cloudflare",
+      "cf-ray": ""
+    },
+    "cookies": [
+      "__cf_bm",
+      "_cfuvid"
+    ]
+  },
+  "Nginx": {
+    "category": "Web Server",
+    "headers": {
+      "server": "nginx"
+    }
+  },
+  "Apache": {
+    "category": "Web Server",
+    "headers": {
+      "server": "apache"
+    }
+  },
+  "LiteSpeed": {
+    "category": "Web Server",
+    "headers": {
+      "server": "litespeed"
+    }
+  },
+  "Microsoft IIS": {
+    "category": "Web Server",
+    "headers": {
+      "server": "microsoft-iis"
+    }
+  },
+  "PHP": {
+    "category": "Programming Language",
+    "headers": {
+      "x-powered-by": "php"
+    },
+    "cookies": [
+      "phpsessid"
+    ]
+  },
+  "ASP.NET": {
+    "category": "Web Framework",
+    "headers": {
+      "x-powered-by": "asp.net",
+      "x-aspnet-version": ""
+    },
+    "cookies": [
+      "asp.net_sessionid"
+    ]
+  }
+}
